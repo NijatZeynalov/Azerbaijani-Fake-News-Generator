@@ -23,7 +23,10 @@ The model is compiled specifying the categorical cross entropy loss needed to fi
 
 Some sample outputs:
 ```
-müraciətdə qeyd edilib ki həmin səlahiyyətlər dövlət başçısının etimadını doğrultmalıdırlar
+müraciətdə qeyd edilib ki müvafiq addımlar atmışıq həmin səlahiyyətlər cənab dövlət başçısının etimadını doğrultmalıdırlar bu barədə iqtisadiyyat nazirliyinin açıqlamasında bildirilir
+
+millət vəkili kimi bütün vədlərə dərhal reaksiya verilir digər tərəfdən mübarizə mexanizmləri ardıcıl olaraq təkmilləşdirilib mübarizə aparılmasında uğurlar qazanacağına inandığını
+
 ```
 
 
