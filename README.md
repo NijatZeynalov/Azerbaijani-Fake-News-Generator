@@ -22,10 +22,8 @@ The model is compiled specifying the categorical cross entropy loss needed to fi
 
 
 Some sample outputs:
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```
+müraciətdə qeyd edilib ki həmin səlahiyyətlər dövlət başçısının etimadını doğrultmalıdırlar
 ```
 
 
