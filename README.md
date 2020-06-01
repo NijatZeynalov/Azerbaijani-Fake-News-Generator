@@ -7,5 +7,5 @@ In this project a LSTM model is used and trained on 100 thousand samples, and it
 
 Model accuracy is about 70% over the 50 epochs. I have used all possible methods to avoid overfitting.
 
-NB! I have shared only a small piece of sample data.
+__NB! I have shared only a small piece of sample data.__
 
