@@ -25,9 +25,14 @@ Some sample outputs:
 ```
 müraciətdə qeyd edilib ki müvafiq addımlar atmışıq həmin səlahiyyətlər cənab dövlət başçısının etimadını doğrultmalıdırlar bu barədə iqtisadiyyat nazirliyinin açıqlamasında bildirilir
 
+
+
 millət vəkili kimi bütün vədlərə dərhal reaksiya verilir digər tərəfdən mübarizə mexanizmləri ardıcıl olaraq təkmilləşdirilib mübarizə aparılmasında uğurlar qazanacağına inandığını
 
 ```
+
+
+
 
 
 
