@@ -14,7 +14,6 @@ Plot of the defined word-based language model.
 ![a257122b-e168-4045-9eb1-7e8d11b81712](https://user-images.githubusercontent.com/31247506/83392283-80baca80-a3fd-11ea-8441-10c339f6d0f3.png)
 
 
-The learned embedding needs to know the size of the vocabulary and the length of input sequences as previously
-discussed. It also has a parameter to specify how many dimensions will be used to represent each word. That is, the size of the embedding vector space. Common values are 50, 100, and 300. We will use sequence length size here, but consider testing smaller or
-larger values. We will use a two LSTM hidden layers with 100 memory cells each. More memory
-cells and a deeper network may achieve better results. A dense fully connected layer with 50 neurons connects to the LSTM hidden layers to interpret the features extracted from the sequence. We then add Dropout in order to avoid overfitting. The output layer predicts the next word as a single vector the size of the vocabulary with a probability for each word in the vocabulary. A softmax activation function is used to ensure the outputs have the characteristics of normalized probabilities.
+The learned embedding needs to know the size of the vocabulary and the length of input sequences as previously discussed. It also has a parameter to specify how many dimensions will be used to represent each word. That is, the size of the embedding vector space. Common values are 50, 100, and 300. We will use sequence length size here, but consider testing smaller or larger values. We will use a two LSTM hidden layers with 100 memory cells each. More memory cells and a deeper network may achieve better results. 
+
+A dense fully connected layer with 50 neurons connects to the LSTM hidden layers to interpret the features extracted from the sequence. We then add Dropout in order to avoid overfitting. The output layer predicts the next word as a single vector the size of the vocabulary with a probability for each word in the vocabulary. A softmax activation function is used to ensure the outputs have the characteristics of normalized probabilities.
