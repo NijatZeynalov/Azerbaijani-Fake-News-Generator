@@ -18,6 +18,10 @@ The learned embedding needs to know the size of the vocabulary and the length of
 
 Two dense fully connected layer with 50 and 100 neurons connects to the LSTM hidden layers to interpret the features extracted from the sequence. We then add Dropout in order to avoid overfitting. The output layer predicts the next word as a single vector the size of the vocabulary with a probability for each word in the vocabulary. A softmax activation function is used to ensure the outputs have the characteristics of normalized probabilities.
 
+The model is compiled specifying the categorical cross entropy loss needed to fit the model. Technically, the model is learning a multiclass classification and this is the suitable loss function for this type of problem. The efficient Adam implementation to mini-batch gradient descent is used and accuracy is evaluated of the model.
+
+The copyright of the idea of this project belongs to Nijat Zeynalov and the project is under developing.
+
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
