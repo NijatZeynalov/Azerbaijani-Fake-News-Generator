@@ -20,10 +20,14 @@ Two dense fully connected layer with 50 and 100 neurons connects to the LSTM hid
 
 The model is compiled specifying the categorical cross entropy loss needed to fit the model. Technically, the model is learning a multiclass classification and this is the suitable loss function for this type of problem. The efficient Adam implementation to mini-batch gradient descent is used and accuracy is evaluated of the model.
 
-The copyright of the idea of this project belongs to Nijat Zeynalov and the project is under developing.
 
+Some sample outputs:
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+
+
+
+The project is under developing and if you want to be a part of this amazing work, feel free to contact me! :)
