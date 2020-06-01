@@ -28,7 +28,6 @@ müraciətdə qeyd edilib ki müvafiq addımlar atmışıq həmin səlahiyyətl�
 
 
 millət vəkili kimi bütün vədlərə dərhal reaksiya verilir digər tərəfdən mübarizə mexanizmləri ardıcıl olaraq təkmilləşdirilib mübarizə aparılmasında uğurlar qazanacağına inandığını
-
 ```
 
 
