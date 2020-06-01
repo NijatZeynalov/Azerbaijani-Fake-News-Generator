@@ -35,4 +35,4 @@ millət vəkili kimi bütün vədlərə dərhal reaksiya verilir digər tərəfd
 
 
 
-The project is under developing and if you want to be a part of this amazing work, feel free to contact me! :)
+The project is under developing and if you want to be a part of this amazing work, feel free to [contact me! :)](https://www.linkedin.com/in/nijat-zeynalov-064163142/ "connect link") :)
