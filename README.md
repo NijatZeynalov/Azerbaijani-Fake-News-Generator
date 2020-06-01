@@ -28,6 +28,9 @@ müraciətdə qeyd edilib ki müvafiq addımlar atmışıq həmin səlahiyyətl�
 
 
 millət vəkili kimi bütün vədlərə dərhal reaksiya verilir digər tərəfdən mübarizə mexanizmləri ardıcıl olaraq təkmilləşdirilib mübarizə aparılmasında uğurlar qazanacağına inandığını
+
+
+pandemiyası ilə əlaqədar mətbuat konfransında deyib xüsusi karantin rejimi dövründə məbləğində cərimələnəcək infeksiyadan sağalmış üç xəstədə yaxşılaşma müşahidə edilir qeyd
 ```
 
 
