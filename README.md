@@ -5,7 +5,7 @@ different words with similar meanings have similar representation and because th
 
 In this project a LSTM model is used and trained on 65 thousand samples, and it should be able to generate text. Data for the training has been scraped from the most popular news website of Azerbaijan. 
 
-Model accuracy is about 70% over the 50 epochs. I have used all possible methods to avoid overfitting
+Model accuracy is about 70% over the 50 epochs. I have used all possible methods to avoid overfitting.
 
 __NB! I have shared only a small piece of sample data.__
 
